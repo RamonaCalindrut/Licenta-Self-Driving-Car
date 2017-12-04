@@ -5,7 +5,7 @@ Computer Vision and Deep Learning for Self-Driving Cars
 
 2.	Cuprins
 
-3.	Sinteza lucrarii ... 2 pag.\n
+3.	Sinteza lucrarii ... 2 pag.
     a.	vezi cerintele de redactare;
     b.	se scrie dupa ce lucrarea e gata;
     c.	serveste ca material de prezentare in fata comisiei
