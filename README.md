@@ -11,10 +11,9 @@ Computer Vision and Deep Learning for Self-Driving Cars
     -	serveste ca material de prezentare in fata comisiei
     
 4.	Chapter 1. Introduction to AI used in Self-Driving Cars 
-    -   Technologies used in ADAS Systems
+    -   Brief Introduction to Active Safety Systems
         -   Adaptive cruise control
         -   Collision avoidance systems
-        -   Driver drowsiness detection
     -	Technologies in Self-Driving Cars
         -   Scene Understanding
         -   Motion Planning
