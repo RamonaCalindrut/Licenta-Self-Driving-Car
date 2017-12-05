@@ -1,5 +1,5 @@
 # Licenta-Self-Driving-Car
-Computer Vision and Deep Learning for Self-Driving Cars
+### Computer Vision and Deep Learning for Self-Driving Cars
 
 1.	Pagina de titlu, cu avizul conducatorului
 
