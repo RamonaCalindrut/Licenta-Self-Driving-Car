@@ -11,19 +11,23 @@
     -	serveste ca material de prezentare in fata comisiei
     
 4.	Chapter 1. Introduction to AI used in Self-Driving Cars 
-    -   Brief Introduction to Active Safety Systems
+    - Aim of the Thesis   
+        - Brief Introduction to Active Safety Systems
         -   Adaptive cruise control
-        -   Collision avoidance systems
+        -   Collision avoidance systems            // marginal
+    -  Importance (1. Why 2. )
     -	Technologies in Self-Driving Cars
         -   Scene Understanding
         -   Motion Planning
-    -	Structure of Chapters
+    -	Structure of Chapters(cate o fraza pentru fiecare capitol)
     
 5.	Chapter 2. Computer Vison and Deep Learning for Scene Understanding and Motion Planning 10 pag.
     -	Intro To Computer Vision Concepts Used
+        -   Concepts (Edge detection , filtering, Classifiers SVM)
         -	Finding Lane Lines on the Road (CV)
         -	Vehicle Tracking (CV)
     -	Introduction to Deep Learning 
+        -   Concepts, Typical Alg. and Architectures (ce inseamna Deep Learning  si cum arata un dnn, ... tip de antrenament)
         -	Traffic Sign Classifier (DL)
         -   Behavioral Cloning (DL)
     
@@ -35,9 +39,9 @@
     -	Detailed Presentation of Practical Implementation 
         -   Hardware and Sensors
         -   Real time image processing 
-    
+        -   Raspberry Pi based Self-Driving Robot
 7.	Chapter 4. Experimental Results and Final Project Overview 5 pag.
-    -	Raspberry Pi based Self-Driving Robot
+    -	Photo/ Video - results
     -   Presentation of System
     
 8.	Chapter 5 Conclusion and Discussion 3 pag.
@@ -47,3 +51,9 @@
     -	minim 20 de titluri bibliografice
 
 10.	Anexe - scheme electronice, cod sursa (Python) 
+
+
+
+TODO:
+1. Rulare pe PC - Simulator + Cod
+2. Instalare CV pe RaspberryPi : https://www.pyimagesearch.com/?s=raspberry&submit=Search
