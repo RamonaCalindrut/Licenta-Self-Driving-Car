@@ -1,5 +1,9 @@
 # Useful References used in project
 
+
+##### Sticky.  Deepgaze?: https://github.com/mpatacchiola/deepgaze
+#####          Video Segmentation and tracking: https://github.com/pathak22/videoseg
+
 ##### 1. MIT 6.S094: Deep Learning for Self-Driving Cars :https://selfdrivingcars.mit.edu/
 ##### 2. Car in a simulator(Behavioral Cloning) :https://github.com/xslittlegrass/CarND-Behavioral-Cloning
 ##### 3. Automatic Vehicle Detection : https://towardsdatascience.com/automatic-vehicle-detection-for-self-driving-cars-8d98c086b161
