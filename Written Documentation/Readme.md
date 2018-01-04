@@ -1,4 +1,7 @@
-### The Mechanics of Machine Learning
+### The Mechanics of Machine Learning 
+(Fundamentals of Deep Learning
+by Nikhil Buduma and Nicholas Lacascio)
+
 To tackle these classes of problems, we’ll have to use a very different kind of
 approach. A lot of the things we learn in school growing up have a lot in common
 with traditional computer programs. We learn how to multiply numbers, solve equa‐
