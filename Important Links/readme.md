@@ -1,7 +1,12 @@
 # Useful References used in project
 
+##### Semantic Image Segmentation using a Fully Convolutional Neural Network
 
-##### Sticky.  Deepgaze?: https://github.com/mpatacchiola/deepgaze
+#####       Video Segmentation and tracking: https://github.com/ljanyst/image-segmentation-fcn
+
+
+
+#####   Deepgaze?: https://github.com/mpatacchiola/deepgaze
 #####          Video Segmentation and tracking: https://github.com/pathak22/videoseg
 
 ##### 1. MIT 6.S094: Deep Learning for Self-Driving Cars :https://selfdrivingcars.mit.edu/
